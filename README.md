@@ -1,7 +1,7 @@
 # PGPS
 
-![](https://github.com/anonymousPgpsIcml/PGPS/LD.gif)
+![](./LD.gif)
 
-![](https://github.com/anonymousPgpsIcml/PGPS/PGPS.gif)
+![](./PGPS.gif)
 
-![](https://github.com/anonymousPgpsIcml/PGPS/pgps_time.gif)
+![](./pgps_time.png)
