@@ -15,6 +15,9 @@ Here is an illustrative example showing the effectiveness of PGPS, please refer 
 
 ![](./LD.gif)
 
+# <img src="LD.gif">
+
+
 ### PGPS over iterations
 
 ![](./PGPS.gif)
