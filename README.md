@@ -10,20 +10,9 @@ Here is an illustrative example showing the effectiveness of PGPS, please refer 
 
 ![](./independent.png)
 
-
 ### LD over iterations
 
 ![](./LD.gif)
-
-<img src="LD.gif" loop=100>
-
-<FastImage
-        style={{ width: 250, height: 100, marginBottom: 50 }}
-        source={require('@LD.gif')}
-        resizeMode={FastImage.resizeMode.contain}
-      />
-
-
 
 ### PGPS over iterations
 
