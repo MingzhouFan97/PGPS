@@ -15,7 +15,7 @@ Here is an illustrative example showing the effectiveness of PGPS, please refer 
 
 ![](./LD.gif)
 
-# <img src="LD.gif">
+# <img src="LD.gif" loop=infinite>
 
 
 ### PGPS over iterations
