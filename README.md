@@ -15,7 +15,7 @@ Here is an illustrative example showing the effectiveness of PGPS, please refer 
 
 ![](./LD.gif)
 
-<img src="LD.gif" loop==infinite>
+<img src="LD.gif" loop==100>
 
 <FastImage
         style={{ width: 250, height: 100, marginBottom: 50 }}
