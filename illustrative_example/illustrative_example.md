@@ -1,11 +1,11 @@
 ### Target
 
-![](./independent.png)
+![](../independent.png)
 
 ### LD over iterations
 
-![](./LD.gif)
+![](../LD.gif)
 
 ### PGPS over iterations
 
-![](./PGPS.gif)
+![](../PGPS.gif)
